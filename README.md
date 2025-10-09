@@ -2,6 +2,7 @@
 
 # SCP-UI (Secure Copy Protocol UI)
 A simple UI Helper that makes it easier to use and understand the SCP protocol
+<i>yes ik better alternatives exist but sometimes doing things the jank way is fun</i>
 > [!WARNING]  
 > This repo is still in development and also a W.I.P so please be cautious while using this project
 
