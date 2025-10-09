@@ -1,1 +1,1 @@
-d
+![A majestic mountain range at sunset](https://example.com/mountain_sunset.jpg "Mountain View")
