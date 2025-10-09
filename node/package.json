@@ -1,0 +1,12 @@
+{
+  "name": "SCP-UI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rxfe-a",
+  "license": "BSD-3-Clause",
+  "description": "A simple UI Helper that makes it easier to use and understand the SCP protocol"
+}
