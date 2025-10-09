@@ -35,7 +35,7 @@ class SCPGui(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title(APP_TITLE)
-        self.geometry("900x640")
+        self.geometry("900x650")
         self.minsize(720, 520)
 
         self.proc_thread = None
