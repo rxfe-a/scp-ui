@@ -1,6 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
+
+python/.env
+python/venv/
+python/.venv/
+python/env/
+
+
 *$py.class
 
 # C extensions
