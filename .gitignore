@@ -5,6 +5,7 @@ __pycache__/
 python/.env
 python/venv/
 python/.venv/
+node/node_modules/
 python/env/
 
 
