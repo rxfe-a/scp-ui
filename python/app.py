@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-SCP GUI (system scp) with optional password support and saved settings.
-
-- Uses system `scp` for transfers.
-- If "Use password" is checked, the app will attempt to send the password automatically:
-    - Preferred: uses pexpect (pip install pexpect).
-    - Fallback: uses sshpass if available (less secure).
-- Saves settings (NOT password) to ~/.scp_gui_config.json.
-
-Save as scp_gui_scp_password.py and run: python scp_gui_scp_password.py
-"""
 import os
 import json
 import threading
